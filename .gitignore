@@ -26,6 +26,11 @@ logs/
 # Compiled Python bytecode
 *.py[cod]
 
+node_modules/
+# Dependency directories
+bower_components/
+jspm_packages/ 
+
 # Log files
 *.log
 
